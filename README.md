@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carolina</h1>
 <h3 align="center">A passionate software developer from Spain (Barcelona)</h3>
 
-- 🌱 I’m currently learning **C, C++, Python, and Power BI**  
 - 📫 How to reach me: **carolinatacconis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
